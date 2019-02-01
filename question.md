@@ -1,5 +1,5 @@
  <b> What do the numbers inside the parentheses after a function name do? </b> <br/>
- The numbers define part of the function's parameters. <br/>
+ The numbers are arugenments that define the function's parameters. <br/>
  <br/>
  <b> What’s the difference between fill and stroke?  </b> <br/>
  The fill means the inside color of a shape, while the stroke means the boundary of a shape or a line.  
